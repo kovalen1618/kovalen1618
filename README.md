@@ -4,7 +4,7 @@ My name is Ethan and I am a full-stack web developer and programming instructor!
 
 When I'm not cooking a rice bowl, reading a sci-fi novel, or telling wonderful recruiters how perfect I am for the job then I'm spending my time learning and improving as much as I can.
 
-If you'd like to see what I've been up to or even need some help, here's what I've been working with:
+If you'd like to see what I've been up to or even need some help, here's what I've been working with so far:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,3 +27,5 @@ If you'd like to see what I've been up to or even need some help, here's what I'
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+Please be sure to have a great day!

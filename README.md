@@ -4,7 +4,7 @@ My name is Ethan and I am a full-stack web developer and programming instructor!
 
 When I'm not cooking a rice bowl, reading a sci-fi novel, or telling wonderful recruiters how perfect I am for the job then I'm spending my time learning and improving as much as I can.
 
-If you'd like to see what I've been up to or even need some help, here's what I've been working with so far:
+If you'd like to see what I've been up to or even need some help, here's [my portfolio](https://kovalen1618.github.io/3d_portfolio_study/).
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is Ethan and I am a full-stack web developer and programming instructor! I love to learn and foster growth in others.
+My name is Ethan and I am a full-stack application developer and programming instructor specializing in MERN tech stacks.
 
-When I'm not cooking a rice bowl, reading a sci-fi novel, or telling wonderful recruiters how perfect I am for the job then I'm spending my time learning and improving as much as I can.
-
-If you'd like to see what I've been up to or even need some help, here's [my portfolio](https://kovalen1618.github.io/3d_portfolio_study/).
+If you'd like to see what I've been up to, here's [my LinkedIn](https://www.linkedin.com/in/ethan-kovalenko-758b14208/) and here's [my portfolio](https://kovalen1618.github.io/3d_portfolio_study/).
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,5 +25,3 @@ If you'd like to see what I've been up to or even need some help, here's [my por
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-Please be sure to have a great day!

@@ -2,7 +2,7 @@
 
 My name is Ethan and I am a full-stack application developer and programming instructor specializing in MERN tech stacks.
 
-If you'd like to see what I've been up to, here's [my LinkedIn](https://www.linkedin.com/in/ethan-kovalenko-758b14208/) and here's [my portfolio](https://kovalen1618.github.io/3d_portfolio_study/).
+If you'd like to see what I've been up to, here's [my portfolio](https://kovalen1618.github.io/3d_portfolio_study/).
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
